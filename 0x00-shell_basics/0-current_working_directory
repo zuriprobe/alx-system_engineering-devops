@@ -1,3 +1,2 @@
 #!/bin/bash
 dir_path=$(dirname $(realpath $0))
-echo $dir_path
