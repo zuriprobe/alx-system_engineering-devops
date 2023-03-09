@@ -1,2 +1,2 @@
 #!/bin/bash
-dir_path=$(dirname $(realpath $0))
+pwd
