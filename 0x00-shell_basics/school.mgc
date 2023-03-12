@@ -1,2 +1,2 @@
 #!/bin/bash
-file  grep *"School"
+file -i
