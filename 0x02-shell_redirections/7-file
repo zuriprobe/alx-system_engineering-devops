@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 vi \*\\'\"Best School"\'\\*\$\?\*\*\*\*\*\:\)
+=======
+vi \*\'"Best School"\'\*\$\?\*\*\*\*\*\:\)
+>>>>>>> 9ebeafeb066aa674bb2f5f74947917dacc1ed71c
